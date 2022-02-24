@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Peyton/CLionProjects/ListContainer/List.h
+iostream
+-
+initializer_list
+-
+List.hpp
+C:/Users/Peyton/CLionProjects/ListContainer/List.hpp
+
+C:/Users/Peyton/CLionProjects/ListContainer/List.hpp
+
+C:/Users/Peyton/CLionProjects/ListContainer/main.cpp
+iostream
+-
+string
+-
+List.h
+C:/Users/Peyton/CLionProjects/ListContainer/List.h
+
